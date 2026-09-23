@@ -1,0 +1,214 @@
+{
+  "group": "fundus-8class-odir",
+  "created": "2026-09-23T10:37:02.825309",
+  "datasets": {
+    "ODIR-5K": {
+      "kaggle_slug": "andrewmvd/ocular-disease-recognition-odir5k",
+      "root": "/kaggle/input/datasets/andrewmvd/ocular-disease-recognition-odir5k",
+      "csv": "/kaggle/input/datasets/andrewmvd/ocular-disease-recognition-odir5k/full_df.csv",
+      "images_folder": "/kaggle/input/datasets/andrewmvd/ocular-disease-recognition-odir5k/ODIR-5K/ODIR-5K/Training Images",
+      "label_col": "labels",
+      "image_col": "filename",
+      "type": "csv_based",
+      "classes": [
+        "N",
+        "D",
+        "G",
+        "C",
+        "A",
+        "H",
+        "M",
+        "O"
+      ]
+    },
+    "Combined Fundus Images": {
+      "kaggle_slug": "rohitrawat25/combined-fundus-images",
+      "root": "/kaggle/input/datasets/rohitrawat25/combined-fundus-images/Dataset",
+      "csv": "/kaggle/input/datasets/rohitrawat25/combined-fundus-images/Dataset/label_images.csv",
+      "images_folder": "/kaggle/input/datasets/rohitrawat25/combined-fundus-images/Dataset/images",
+      "label_col": "label",
+      "image_col": "images",
+      "type": "csv_based",
+      "classes": [
+        "N",
+        "D",
+        "G",
+        "C",
+        "A",
+        "H",
+        "M",
+        "O"
+      ]
+    },
+    "Ocular Disease Dataset (manan1717)": {
+      "kaggle_slug": "manan1717/ocular-disease-dataset",
+      "root": "/kaggle/input/datasets/manan1717/ocular-disease-dataset/preprocessed",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/manan1717/ocular-disease-dataset/preprocessed",
+      "type": "folder_based",
+      "classes": [
+        "A",
+        "C",
+        "D",
+        "G",
+        "H",
+        "M",
+        "N"
+      ]
+    },
+    "eye-diseases-classification": {
+      "kaggle_slug": "fahadhasan93/eye-diseases-classification",
+      "root": "/kaggle/input/datasets/fahadhasan93/eye-diseases-classification/dataset",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/fahadhasan93/eye-diseases-classification/dataset",
+      "type": "folder_based",
+      "classes": [
+        "cataract",
+        "diabetic_retinopathy",
+        "glaucoma",
+        "normal"
+      ]
+    },
+    "Eye Diseases (belalsafy)": {
+      "kaggle_slug": "belalsafy/eye-diseases",
+      "root": "/kaggle/input/datasets/belalsafy/eye-diseases/dataset",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/belalsafy/eye-diseases/dataset",
+      "type": "folder_based",
+      "classes": [
+        "Age related Macular Degeneration",
+        "Cataract",
+        "Diabetes",
+        "Glaucoma",
+        "Hypertension",
+        "Normal",
+        "Other diseases",
+        "Pathological Myopia"
+      ]
+    },
+    "eye diseases (mohamedgamal295)": {
+      "kaggle_slug": "mohamedgamal295/eye-diseases",
+      "root": "/kaggle/input/datasets/mohamedgamal295/eye-diseases/dataset",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/mohamedgamal295/eye-diseases/dataset",
+      "type": "folder_based",
+      "classes": [
+        "cataract",
+        "diabetic_retinopathy",
+        "glaucoma",
+        "normal",
+        "retina_disease"
+      ]
+    },
+    "eye diseases 2": {
+      "kaggle_slug": "mohamedgamal295/eye-diseases-2",
+      "root": "/kaggle/input/datasets/mohamedgamal295/eye-diseases-2/eye diseases",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/mohamedgamal295/eye-diseases-2/eye diseases",
+      "type": "folder_based",
+      "classes": [
+        "cataract",
+        "diabetic_retinopathy",
+        "glaucoma",
+        "normal"
+      ]
+    },
+    "Eye diseases (aealemran)": {
+      "kaggle_slug": "aealemran/eye-diseases",
+      "root": "/kaggle/input/datasets/aealemran/eye-diseases/Eye diseases",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/aealemran/eye-diseases/Eye diseases",
+      "type": "folder_based",
+      "classes": [
+        "Color Fundus",
+        "Diabetic Retinopathy",
+        "Disc Edema",
+        "Glaucoma",
+        "Healthy",
+        "Macular Scar",
+        "Myopia",
+        "Pterygium",
+        "Retinal Detachment",
+        "Retinitis Pigmentosa"
+      ]
+    },
+    "Eye-fundus10": {
+      "kaggle_slug": "ermano123/eye-fundus10",
+      "root": "/kaggle/input/datasets/ermano123/eye-fundus10/eye",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/ermano123/eye-fundus10/eye/train",
+      "type": "folder_based",
+      "classes": [
+        "Central Serous Chorioretinopathy",
+        "Diabetic Retinopathy",
+        "Disc Edema",
+        "Glaucoma",
+        "Healthy",
+        "Macular Scar",
+        "Myopia",
+        "Pterygium",
+        "Retinal Detachment",
+        "Retinitis Pigmentosa"
+      ]
+    },
+    "Eye Disease Detection": {
+      "kaggle_slug": "h100gpu/eye-disease-detection",
+      "root": "/kaggle/input/datasets/h100gpu/eye-disease-detection/Dataset",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/h100gpu/eye-disease-detection/Dataset/train",
+      "type": "folder_based",
+      "classes": [
+        "amd",
+        "cataract",
+        "diabetes",
+        "glaucoma",
+        "normal"
+      ]
+    },
+    "Ocular Fundus Image": {
+      "kaggle_slug": "mdeconozzamanecon/ocular-disease",
+      "root": "/kaggle/input/datasets/mdeconozzamanecon/ocular-disease/augmented",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/mdeconozzamanecon/ocular-disease/augmented",
+      "type": "folder_based",
+      "classes": [
+        "Retinoblastoma",
+        "cataract",
+        "glaucoma",
+        "normal"
+      ]
+    },
+    "Processed Eye Dataset V2": {
+      "kaggle_slug": "mohammadsadman21/processed-eye-dataset-v2",
+      "root": "/kaggle/input/datasets/mohammadsadman21/processed-eye-dataset-v2/Eye_Disease_Images_dataset/Augmented",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/mohammadsadman21/processed-eye-dataset-v2/Eye_Disease_Images_dataset/Augmented",
+      "type": "folder_based",
+      "classes": [
+        "Central Serous Chorioretinopathy",
+        "Diabetic Retinopathy",
+        "Disc Edema",
+        "Glaucoma",
+        "Healthy",
+        "Macular Scar",
+        "Myopia",
+        "Pterygium",
+        "Retinal Detachment",
+        "Retinitis Pigmentosa"
+      ]
+    },
+    "preprocessed_eye_diseases_fundus_images": {
+      "kaggle_slug": "gunavenkatdoddi/preprocessed-eye-diseases-fundus-images",
+      "root": "/kaggle/input/datasets/gunavenkatdoddi/preprocessed-eye-diseases-fundus-images/seg_dataset",
+      "csv": null,
+      "images_folder": "/kaggle/input/datasets/gunavenkatdoddi/preprocessed-eye-diseases-fundus-images/seg_dataset",
+      "type": "folder_based",
+      "classes": [
+        "cataract",
+        "diabetic_retinopathy",
+        "glaucoma",
+        "normal"
+      ]
+    }
+  }
+}

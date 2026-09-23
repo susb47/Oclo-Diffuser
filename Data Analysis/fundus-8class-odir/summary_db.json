@@ -1,0 +1,22 @@
+{
+  "group": "fundus-8class-odir",
+  "created": "2026-09-23T10:37:02.827897",
+  "results": {
+    "ODIR-5K": {
+      "total_images": 6392,
+      "classes": {
+        "N": 2873,
+        "D": 1608,
+        "O": 708,
+        "C": 293,
+        "G": 284,
+        "A": 266,
+        "M": 232,
+        "H": 128
+      },
+      "resolution": "512x512",
+      "avg_size_mb": 0.059,
+      "notes": "labels column contains string lists like ['N']"
+    }
+  }
+}
