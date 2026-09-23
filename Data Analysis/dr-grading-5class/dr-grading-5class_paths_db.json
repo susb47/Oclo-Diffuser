@@ -1,5 +1,76 @@
 {
   "group": "dr-grading-5class",
-  "created": "2026-09-23T11:12:49.023469",
-  "datasets": {}
+  "created": "2026-09-23T11:53:30.010127",
+  "datasets": {
+    "IDRiD (mohamedabdalkader)": {
+      "kaggle_slug": "mohamedabdalkader/indian-diabetic-retinopathy-image-dataset-idrid",
+      "root": "/kaggle/input/datasets/mohamedabdalkader/indian-diabetic-retinopathy-image-dataset-idrid/IDRiD",
+      "images_folder": "/kaggle/input/datasets/mohamedabdalkader/indian-diabetic-retinopathy-image-dataset-idrid/IDRiD/Train/images",
+      "csv": "/kaggle/input/datasets/mohamedabdalkader/indian-diabetic-retinopathy-image-dataset-idrid/IDRiD/Train/annotations.csv",
+      "type": "csv_based",
+      "classes": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "IDRiD2 (mohamedabdalkader)": {
+      "kaggle_slug": "mohamedabdalkader/indian-diabetic-retinopathy-image-dataset-idrid2",
+      "root": "/kaggle/input/datasets/mohamedabdalkader/indian-diabetic-retinopathy-image-dataset-idrid2/IDRiD",
+      "images_folder": "/kaggle/input/datasets/mohamedabdalkader/indian-diabetic-retinopathy-image-dataset-idrid2/IDRiD/train/images",
+      "csv": "/kaggle/input/datasets/mohamedabdalkader/indian-diabetic-retinopathy-image-dataset-idrid2/IDRiD/train/annotations.csv",
+      "type": "csv_based",
+      "classes": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "IDRiD Disease Grading (dankok)": {
+      "kaggle_slug": "dankok/diabetic-retinopathy-image-dataset",
+      "root": "/kaggle/input/datasets/dankok/diabetic-retinopathy-image-dataset",
+      "images_folder": "/kaggle/input/datasets/dankok/diabetic-retinopathy-image-dataset/Disease_Grading/Original_Images/Training Set",
+      "csv": "/kaggle/input/datasets/dankok/diabetic-retinopathy-image-dataset/Disease_Grading/Groundtruths/IDRiD_Disease Grading_Training Labels.csv",
+      "type": "csv_based",
+      "classes": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "Messidor-2 (Google Brain)": {
+      "kaggle_slug": "abdhendi/messifor2 + google-brain/messidor2-dr-grades",
+      "root": "/kaggle/input/datasets/abdhendi/messifor2",
+      "images_folder": "/kaggle/input/datasets/abdhendi/messifor2/messidor2/IMAGES",
+      "csv": "/kaggle/input/datasets/google-brain/messidor2-dr-grades/messidor_data.csv",
+      "type": "csv_based",
+      "classes": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "DeepDRiD (hamza collection)": {
+      "kaggle_slug": "hamza202404/drdm1-six-fundus-images-datasets-by-mian-hamza",
+      "root": "/kaggle/input/datasets/hamza202404/drdm1-six-fundus-images-datasets-by-mian-hamza",
+      "images_folder": "/kaggle/input/datasets/hamza202404/drdm1-six-fundus-images-datasets-by-mian-hamza/DeepDRiD/DeepDRiD",
+      "csv": "/kaggle/input/datasets/hamza202404/drdm1-six-fundus-images-datasets-by-mian-hamza/DeepDRiD_dataset.csv",
+      "type": "csv_based",
+      "classes": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    }
+  }
 }
