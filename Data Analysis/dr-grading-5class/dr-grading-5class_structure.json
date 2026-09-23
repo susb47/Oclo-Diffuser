@@ -1,0 +1,227 @@
+{
+  "datasets": {
+    "abdhendi": {
+      "messifor2": {
+        "__meta_files__": [
+          "messidor-2.csv"
+        ],
+        "messidor2": {
+          "IMAGES": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        }
+      }
+    },
+    "dankok": {
+      "diabetic-retinopathy-image-dataset": {
+        "Disease_Grading": {
+          "Groundtruths": {
+            "__meta_files__": [
+              "IDRiD_Disease Grading_Testing Labels.csv",
+              "IDRiD_Disease Grading_Training Labels.csv"
+            ]
+          },
+          "Original_Images": {
+            "Testing Set": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Training Set": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          }
+        },
+        "Localization": {
+          "Localization": {
+            "Groundtruths": {
+              "Fovea Center Location": {
+                "__meta_files__": [
+                  "IDRiD_Fovea_Center_Testing Set_Markups.csv",
+                  "IDRiD_Fovea_Center_Training Set_Markups.csv"
+                ]
+              },
+              "Optic Disc Center Location": {
+                "__meta_files__": [
+                  "IDRiD_OD_Center_Testing Set_Markups.csv",
+                  "IDRiD_OD_Center_Training Set_Markups.csv"
+                ]
+              }
+            },
+            "Original_Images": {
+              "Testing Set": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "Training Set": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              }
+            }
+          }
+        },
+        "Segmentation": {
+          "Original_Images": {
+            "Testing Set": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Training Set": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          },
+          "Segmentation_Groundtruths": {
+            "Testing Set": {
+              "Haemorrhages": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "Hard Exudates": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "Microaneurysms": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "Optic Disc": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "Soft Exudates": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              }
+            },
+            "Training Set": {
+              "Haemorrhages": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "Hard Exudates": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "Microaneurysms": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "Optic Disc": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "Soft Exudates": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              }
+            }
+          }
+        }
+      }
+    },
+    "hamza202404": {
+      "drdm1-six-fundus-images-datasets-by-mian-hamza": {
+        "Aptos": {
+          "Aptos": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        },
+        "__meta_files__": [
+          "Aptos_dataset.csv",
+          "DDR_dataset.csv",
+          "DRDM1.csv",
+          "DeepDRiD_dataset.csv",
+          "Diabetic Retinopathy EHR tabular dataset.csv",
+          "EyePac_dataset.csv",
+          "IDRID_dataset.csv",
+          "Messidor_dataset.csv"
+        ],
+        "DDR": {
+          "DDR": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        },
+        "DRDM1": {
+          "Train": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        },
+        "DeepDRiD": {
+          "DeepDRiD": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        },
+        "EyePac": {
+          "EyePac": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        },
+        "IDRID": {
+          "IDRID": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        },
+        "Messidor": {
+          "Messidor": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        }
+      }
+    },
+    "mohamedabdalkader": {
+      "indian-diabetic-retinopathy-image-dataset-idrid": {
+        "IDRiD": {
+          "Test": {
+            "__meta_files__": [
+              "annotations.csv"
+            ],
+            "images": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          },
+          "Train": {
+            "__meta_files__": [
+              "annotations.csv"
+            ],
+            "images": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          }
+        }
+      },
+      "indian-diabetic-retinopathy-image-dataset-idrid2": {
+        "IDRiD": {
+          "test": {
+            "__meta_files__": [
+              "annotations.csv"
+            ],
+            "images": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          },
+          "train": {
+            "__meta_files__": [
+              "annotations.csv"
+            ],
+            "images": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          }
+        }
+      }
+    }
+  }
+}
