@@ -1,0 +1,19 @@
+{
+  "group": "rfmid-multilabel",
+  "created": "2026-09-23T12:20:48.546507",
+  "datasets": {
+    "RFMiD": {
+      "kaggle_slug": "sohailaelsayed/retinal-fundus-multi-disease-rfmid",
+      "root": "/kaggle/input/datasets/sohailaelsayed/retinal-fundus-multi-disease-rfmid",
+      "images_train": "/kaggle/input/datasets/sohailaelsayed/retinal-fundus-multi-disease-rfmid/1. Original Images/1. Original Images/a. Training Set",
+      "images_val": "/kaggle/input/datasets/sohailaelsayed/retinal-fundus-multi-disease-rfmid/1. Original Images/1. Original Images/b. Validation Set",
+      "images_test": "/kaggle/input/datasets/sohailaelsayed/retinal-fundus-multi-disease-rfmid/1. Original Images/1. Original Images/c. Testing Set",
+      "csv_train": "/kaggle/input/datasets/sohailaelsayed/retinal-fundus-multi-disease-rfmid/2. Groundtruths/2. Groundtruths/a. RFMiD_Training_Labels.csv",
+      "csv_val": "/kaggle/input/datasets/sohailaelsayed/retinal-fundus-multi-disease-rfmid/2. Groundtruths/2. Groundtruths/b. RFMiD_Validation_Labels.csv",
+      "csv_test": "/kaggle/input/datasets/sohailaelsayed/retinal-fundus-multi-disease-rfmid/2. Groundtruths/2. Groundtruths/c. RFMiD_Testing_Labels.csv",
+      "type": "multi-label",
+      "classes": "46 conditions (multi-label)",
+      "notes": "Official RFMiD dataset with Train / Val / Test splits"
+    }
+  }
+}

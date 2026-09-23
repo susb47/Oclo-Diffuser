@@ -1,0 +1,33 @@
+{
+  "datasets": {
+    "sohailaelsayed": {
+      "retinal-fundus-multi-disease-rfmid": {
+        "1. Original Images": {
+          "1. Original Images": {
+            "a. Training Set": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "b. Validation Set": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "c. Testing Set": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          }
+        },
+        "2. Groundtruths": {
+          "2. Groundtruths": {
+            "__meta_files__": [
+              "a. RFMiD_Training_Labels.csv",
+              "b. RFMiD_Validation_Labels.csv",
+              "c. RFMiD_Testing_Labels.csv"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
