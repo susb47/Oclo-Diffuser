@@ -1,0 +1,194 @@
+{
+  "group": "fundus-8class-odir",
+  "created": "2026-09-23T11:10:44.450908",
+  "results": {
+    "ODIR-5K": {
+      "total_images": 6392,
+      "classes": {
+        "N": 2873,
+        "D": 1608,
+        "O": 708,
+        "C": 293,
+        "G": 284,
+        "A": 266,
+        "M": 232,
+        "H": 128
+      },
+      "resolution": "512x512",
+      "avg_size_mb": 0.059,
+      "notes": "labels column contains string lists like ['X']"
+    },
+    "Combined Fundus Images": {
+      "total_images": 9868,
+      "classes": {
+        "N": 3230,
+        "D": 1608,
+        "G": 1071,
+        "M": 1036,
+        "C": 897,
+        "O": 888,
+        "A": 708,
+        "H": 430
+      },
+      "resolution": "512x512",
+      "avg_size_mb": 0.11,
+      "notes": "labels column contains string lists like ['X']"
+    },
+    "Ocular Disease Dataset (manan1717)": {
+      "total_images": 10449,
+      "classes": {
+        "D": 3128,
+        "N": 2997,
+        "G": 1646,
+        "C": 1008,
+        "M": 739,
+        "A": 511,
+        "H": 420
+      },
+      "resolution": "Variable (22+ unique; 512x512 to 1266x1265)",
+      "avg_size_mb": 0.376,
+      "notes": "images not resized; multiple resolutions present across files"
+    },
+    "eye-diseases-classification": {
+      "total_images": 4217,
+      "classes": {
+        "diabetic_retinopathy": 1098,
+        "normal": 1074,
+        "cataract": 1038,
+        "glaucoma": 1007
+      },
+      "resolution": "Variable (5 unique; 256x256 to 2592x1728)",
+      "avg_size_mb": 0.175,
+      "notes": "images not resized; multiple resolutions present across files"
+    },
+    "Eye Diseases (belalsafy)": {
+      "total_images": 8230,
+      "classes": {
+        "Normal": 2280,
+        "Diabetes": 2256,
+        "Other diseases": 1958,
+        "Glaucoma": 430,
+        "Cataract": 424,
+        "Pathological Myopia": 348,
+        "Age related Macular Degeneration": 328,
+        "Hypertension": 206
+      },
+      "resolution": "Variable (15+ unique; 1280x960 to 1677x1472)",
+      "avg_size_mb": 0.193,
+      "notes": "images not resized; multiple resolutions present across files"
+    },
+    "eye diseases (mohamedgamal295)": {
+      "total_images": 4317,
+      "classes": {
+        "diabetic_retinopathy": 1098,
+        "normal": 1074,
+        "cataract": 1038,
+        "glaucoma": 1007,
+        "retina_disease": 100
+      },
+      "resolution": "Variable (5 unique; 256x256 to 2592x1728)",
+      "avg_size_mb": 0.237,
+      "notes": "images not resized; multiple resolutions present across files"
+    },
+    "eye diseases 2": {
+      "total_images": 4217,
+      "classes": {
+        "diabetic_retinopathy": 1098,
+        "normal": 1074,
+        "cataract": 1038,
+        "glaucoma": 1007
+      },
+      "resolution": "Variable (5 unique; 256x256 to 2592x1728)",
+      "avg_size_mb": 0.175,
+      "notes": "images not resized; multiple resolutions present across files; identical class counts/sizes to 'eye diseases (mohamedgamal295)' \u2014 likely the same underlying data"
+    },
+    "Eye diseases (aealemran)": {
+      "total_images": 9160,
+      "classes": {
+        "Diabetic Retinopathy": 2047,
+        "Glaucoma": 1588,
+        "Healthy": 1468,
+        "Myopia": 1244,
+        "Macular Scar": 1033,
+        "Retinitis Pigmentosa": 476,
+        "Disc Edema": 450,
+        "Retinal Detachment": 446,
+        "Color Fundus": 348,
+        "Pterygium": 60
+      },
+      "resolution": "640x640",
+      "avg_size_mb": 0.027
+    },
+    "Eye-fundus10 (train)": {
+      "total_images": 11364,
+      "classes": {
+        "Diabetic Retinopathy": 2410,
+        "Glaucoma": 2015,
+        "Healthy": 1873,
+        "Myopia": 1575,
+        "Macular Scar": 1355,
+        "Retinitis Pigmentosa": 583,
+        "Disc Edema": 533,
+        "Retinal Detachment": 525,
+        "Central Serous Chorioretinopathy": 424,
+        "Pterygium": 71
+      },
+      "resolution": "224x224",
+      "avg_size_mb": 0.006
+    },
+    "Eye Disease Detection (train)": {
+      "total_images": 1989,
+      "classes": {
+        "normal": 410,
+        "diabetes": 400,
+        "cataract": 400,
+        "amd": 394,
+        "glaucoma": 385
+      },
+      "resolution": "Variable (20+ unique; 512x512 to 1285x1396)",
+      "avg_size_mb": 0.243,
+      "notes": "images not resized; multiple resolutions present across files"
+    },
+    "Ocular Fundus Image For Disease Detection": {
+      "total_images": 4952,
+      "classes": {
+        "Retinoblastoma": 1238,
+        "cataract": 1238,
+        "glaucoma": 1238,
+        "normal": 1238
+      },
+      "resolution": "Variable (11+ unique; 130x130 to 1848x2592)",
+      "avg_size_mb": 1.258,
+      "notes": "images not resized; multiple resolutions present across files"
+    },
+    "Processed Eye Dataset V2 (Augmented)": {
+      "total_images": 16242,
+      "classes": {
+        "Diabetic Retinopathy": 3444,
+        "Glaucoma": 2880,
+        "Healthy": 2676,
+        "Myopia": 2251,
+        "Macular Scar": 1937,
+        "Retinitis Pigmentosa": 834,
+        "Disc Edema": 762,
+        "Retinal Detachment": 750,
+        "Central Serous Chorioretinopathy": 606,
+        "Pterygium": 102
+      },
+      "resolution": "512x512",
+      "avg_size_mb": 0.034
+    },
+    "preprocessed_eye_diseases_fundus_images": {
+      "total_images": 4217,
+      "classes": {
+        "diabetic_retinopathy": 1098,
+        "normal": 1074,
+        "cataract": 1038,
+        "glaucoma": 1007
+      },
+      "resolution": "Variable (5 unique; 256x256 to 2592x1728)",
+      "avg_size_mb": 0.14,
+      "notes": "images not resized; multiple resolutions present across files"
+    }
+  }
+}
