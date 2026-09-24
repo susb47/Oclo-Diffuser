@@ -1,0 +1,33 @@
+{
+  "group": "glaucoma-fundus",
+  "created": "2026-09-24T07:41:07.154396",
+  "datasets": {
+    "PAPILA": {
+      "kaggle_slug": "orvile/papila-retinal-fundus-images",
+      "root": "/kaggle/input/datasets/orvile/papila-retinal-fundus-images/PapilaDB-PAPILA-17f8fa7746adb20275b5b6a0d99dc9dfe3007e9f",
+      "images_folder": "/kaggle/input/datasets/orvile/papila-retinal-fundus-images/PapilaDB-PAPILA-17f8fa7746adb20275b5b6a0d99dc9dfe3007e9f/FundusImages",
+      "clinical_od": "/kaggle/input/datasets/orvile/papila-retinal-fundus-images/PapilaDB-PAPILA-17f8fa7746adb20275b5b6a0d99dc9dfe3007e9f/ClinicalData/patient_data_od.xlsx",
+      "clinical_os": "/kaggle/input/datasets/orvile/papila-retinal-fundus-images/PapilaDB-PAPILA-17f8fa7746adb20275b5b6a0d99dc9dfe3007e9f/ClinicalData/patient_data_os.xlsx",
+      "type": "folder_based + clinical data",
+      "classes": [
+        "healthy",
+        "glaucoma",
+        "suspect"
+      ],
+      "notes": "Both eyes of same patient + OD/cup segmentations"
+    },
+    "SMDG": {
+      "kaggle_slug": "deathtrooper/multichannel-glaucoma-benchmark-dataset",
+      "root": "/kaggle/input/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset",
+      "images_folder": "/kaggle/input/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset/full-fundus/full-fundus",
+      "csv": "/kaggle/input/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset/metadata - standardized.csv",
+      "type": "folder_based + metadata csv",
+      "classes": [
+        "0 (non-glaucoma)",
+        "1 (glaucoma)",
+        "-1 (suspect)"
+      ],
+      "notes": "Largest public glaucoma collection (19 sources combined)"
+    }
+  }
+}
