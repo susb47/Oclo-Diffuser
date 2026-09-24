@@ -1,0 +1,18 @@
+{
+  "group": "special-hr-etc",
+  "created": "2026-09-24T14:10:37.083136",
+  "datasets": {
+    "Hypertensive Retinopathy": {
+      "kaggle_slug": "zoya77/hypertensive-retinopathy-fundus-image-dataset",
+      "root": "",
+      "images_folder": "",
+      "csv": "",
+      "type": "folder_based",
+      "classes": [
+        "Normal",
+        "Hypertensive Retinopathy"
+      ],
+      "notes": "Small specialized HR dataset"
+    }
+  }
+}

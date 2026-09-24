@@ -1,0 +1,18 @@
+{
+  "datasets": {
+    "zoya77": {
+      "hypertensive-retinopathy-fundus-image-dataset": {
+        "Eye Disease dataset": {
+          "Hypertensive Retinopathy": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Normal Fundus": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        }
+      }
+    }
+  }
+}

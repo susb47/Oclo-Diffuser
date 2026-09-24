@@ -1,0 +1,2 @@
+Dataset,Kaggle_Slug,Type,Num_Classes,Total_Images,Resolution,Avg_Size_MB,Total_Size_MB,Total_Size_GB,Classes,Per_Class_Counts,Root_Path,Images_Folder,Notes
+Hypertensive Retinopathy,zoya77/hypertensive-retinopathy-fundus-image-dataset,folder_based,2,0,,0,15.2,0.01,Normal Fundus | Hypertensive Retinopathy,,/kaggle/input/datasets/zoya77/hypertensive-retinopathy-fundus-image-dataset/Eye Disease dataset,/kaggle/input/datasets/zoya77/hypertensive-retinopathy-fundus-image-dataset/Eye Disease dataset,Small specialized HR dataset
