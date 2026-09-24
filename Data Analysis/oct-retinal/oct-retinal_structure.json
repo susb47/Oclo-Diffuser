@@ -1,0 +1,86 @@
+{
+  "datasets": {
+    "deepakraje": {
+      "macular-oct-data": {
+        "OCTDL Optical Coherence Tomography Dataset for Image-Based Deep Learning Methods": {
+          "OCTDL": {
+            "OCTDL": {
+              "AMD": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "DME": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "ERM": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "NO": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "RAO": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "RVO": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "VID": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              }
+            }
+          },
+          "__meta_files__": [
+            "OCTDL_labels.csv"
+          ]
+        }
+      }
+    },
+    "shakilrana": {
+      "octdl-retinal-oct-images-dataset": {
+        "OCTDL Optical Coherence Tomography Dataset for Image-Based Deep Learning Methods": {
+          "OCTDL": {
+            "OCTDL": {
+              "AMD": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "DME": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "ERM": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "NO": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "RAO": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "RVO": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              },
+              "VID": {
+                "__contains_images__": true,
+                "__subdirs__": []
+              }
+            }
+          },
+          "__meta_files__": [
+            "OCTDL_labels.csv"
+          ]
+        }
+      }
+    }
+  }
+}

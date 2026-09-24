@@ -1,0 +1,24 @@
+{
+  "group": "oct-retinal",
+  "created": "2026-09-24T11:04:38.704116",
+  "datasets": {
+    "OCTDL": {
+      "kaggle_slug": "shakilrana/octdl-retinal-oct-images-dataset",
+      "root": "",
+      "images_folder": "",
+      "csv": "",
+      "type": "folder_based / OCT",
+      "classes": "OCT disease classes",
+      "notes": "Retinal OCT Images dataset"
+    },
+    "Macular OCT": {
+      "kaggle_slug": "deepakraje/macular-oct-data",
+      "root": "",
+      "images_folder": "",
+      "csv": "",
+      "type": "folder_based / OCT",
+      "classes": "Macular OCT classes",
+      "notes": "Macular OCT data"
+    }
+  }
+}
