@@ -1,0 +1,532 @@
+{
+  "datasets": {
+    "abhinav099802": {
+      "eye-disease-image-dataset": {
+        "data": {
+          "Augmented_Dataset": {
+            "Central Serous Chorioretinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Diabetic Retinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Disc Edema": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Glaucoma": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Healthy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Macular Scar": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Myopia": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Pterygium": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinal Detachment": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinitis Pigmentosa": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          },
+          "Original_Dataset": {
+            "Central Serous Chorioretinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Diabetic Retinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Disc Edema": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Glaucoma": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Healthy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Macular Scar": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Myopia": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Pterygium": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinal Detachment": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinitis Pigmentosa": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          }
+        }
+      }
+    },
+    "linabennaa": {
+      "balanced-eye-disease-image-dataset-mendeley": {
+        "Augmented Dataset Balanced": {
+          "CSCR Color Fundus": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Diabetic Retinopathy": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Disc Edema": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Glaucoma": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Healthy": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Macular Scar": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Myopia": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Pterygium": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Retinal Detachment": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Retinitis Pigmentosa": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        }
+      },
+      "eye-disease-image-dataset-mendeley": {
+        "Augmented Dataset": {
+          "Central Serous Chorioretinopathy_Color Fundus": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Diabetic Retinopathy": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Disc Edema": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Glaucoma": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Healthy": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Macular Scar": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Myopia": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Pterygium": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Retinal Detachment": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Retinitis Pigmentosa": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        }
+      },
+      "original-eye-disease-image-dataset-mendeley": {
+        "Original Dataset": {
+          "CSCR_Color Fundus": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Diabetic Retinopathy": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Disc Edema": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Glaucoma": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Healthy": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Macular Scar": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Myopia": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Pterygium": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Retinal Detachment": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          },
+          "Retinitis Pigmentosa": {
+            "__contains_images__": true,
+            "__subdirs__": []
+          }
+        }
+      }
+    },
+    "shufanshahi": {
+      "eye-disease-image-dataset": {
+        "Eye Disease Image Dataset": {
+          "Augmented Dataset": {
+            "Central Serous Chorioretinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Diabetic Retinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Disc Edema": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Glaucoma": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Healthy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Macular Scar": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Myopia": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Pterygium": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinal Detachment": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinitis Pigmentosa": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          },
+          "Original Dataset": {
+            "Central Serous Chorioretinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Diabetic Retinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Disc Edema": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Glaucoma": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Healthy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Macular Scar": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Myopia": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Pterygium": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinal Detachment": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinitis Pigmentosa": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          }
+        }
+      },
+      "eye-disease-image-dataset-for-finetunning": {
+        "split_dataset": {
+          "test": {
+            "Central Serous Chorioretinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Diabetic Retinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Disc Edema": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Glaucoma": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Healthy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Macular Scar": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Myopia": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Pterygium": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinal Detachment": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinitis Pigmentosa": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          },
+          "train": {
+            "Central Serous Chorioretinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Diabetic Retinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Disc Edema": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Glaucoma": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Healthy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Macular Scar": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Myopia": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Pterygium": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinal Detachment": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinitis Pigmentosa": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          },
+          "train_augmented": {
+            "Central Serous Chorioretinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Diabetic Retinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Disc Edema": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Glaucoma": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Healthy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Macular Scar": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Myopia": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Pterygium": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinal Detachment": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinitis Pigmentosa": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          },
+          "train_original": {
+            "Central Serous Chorioretinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Diabetic Retinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Disc Edema": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Glaucoma": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Healthy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Macular Scar": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Myopia": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Pterygium": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinal Detachment": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinitis Pigmentosa": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          },
+          "val": {
+            "Central Serous Chorioretinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Diabetic Retinopathy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Disc Edema": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Glaucoma": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Healthy": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Macular Scar": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Myopia": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Pterygium": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinal Detachment": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            },
+            "Retinitis Pigmentosa": {
+              "__contains_images__": true,
+              "__subdirs__": []
+            }
+          }
+        }
+      }
+    }
+  }
+}
